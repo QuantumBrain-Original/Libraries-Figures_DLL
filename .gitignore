@@ -2,6 +2,7 @@
 Libraries-Figures_DLL/
 Librarie.ea951427/
 Modules/x64/
+x64/
 *.filters
 *.user
 .gitattributes
